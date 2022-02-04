@@ -20,8 +20,8 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jijinr/Frwdit
-cd Frwit
+git clone 
+cd https://giLukhmantanahhh
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
